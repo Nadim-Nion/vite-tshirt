@@ -42,9 +42,9 @@ Happy coding! 🚀
 Feel free to customize the description based on your app's specifics and any additional features or details you'd like to highlight.
 ## Live Website
 
-Netlify:  
+Netlify:  https://tshirt-with-vite-nion.netlify.app/ 
 
-Surge:
+Surge: https://cute-robin.surge.sh/ 
 
 
 ## Deployment
